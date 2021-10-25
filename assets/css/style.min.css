@@ -18281,9 +18281,9 @@ ul.section-content .course-item .section-item-link .course-item-meta .item-meta-
     color: #ef6f31;
 }
 .footer-social-inline a {
-    margin-right: 25px;
-    margin-bottom: 15px;
-    color: rgba(105, 105, 105, .5);
+    margin: 0 auto;
+    margin-bottom: 20px;
+    color: #FC8581;
 }
 .footer-social-inline a i {
     font-size: 24px;
@@ -18291,7 +18291,9 @@ ul.section-content .course-item .section-item-link .course-item-meta .item-meta-
     display: block;
 }
 .footer-social-inline a:hover {
-    color: #98DDCA;
+    color: #FC8581;
+
+
 }
 .light-color .footer-widget-title {
     color: #fff;
@@ -18307,7 +18309,7 @@ ul.section-content .course-item .section-item-link .course-item-meta .item-meta-
 }
 .footer-section {
     padding: 70px 0 50px;
-    background-color: #f8f8f8;
+    background-color: #D5ECC2
     overflow: hidden;
 }
 .copyright {
