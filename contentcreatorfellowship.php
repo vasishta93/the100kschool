@@ -3,100 +3,14 @@
 
 
 <!-- Mirrored from template.hasthemes.com/maxcoach-v1/maxcoach/course-details-sticky-feature-bar.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 07 Oct 2021 09:19:49 GMT -->
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Course Details Sticky Sidebar - MaxCoach</title>
-    <meta name="robots" content="noindex, follow" />
-    <meta name="description" content="">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <!-- Favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.png">
 
-    <!-- CSS
-	============================================ -->
-
-    <!-- Vendor CSS (Bootstrap & Icon Font) -->
-    <!-- <link rel="stylesheet" href="assets/css/vendor/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/font-awesome-pro.min.css">
-    <link rel="stylesheet" href="assets/css/vendor/font-gilroy.css"> -->
-
-    <!-- Plugins CSS (All Plugins Files) -->
-    <!-- <link rel="stylesheet" href="assets/css/plugins/select2.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/perfect-scrollbar.css">
-    <link rel="stylesheet" href="assets/css/plugins/swiper.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/nice-select.css">
-    <link rel="stylesheet" href="assets/css/plugins/ion.rangeSlider.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/photoswipe.css">
-    <link rel="stylesheet" href="assets/css/plugins/photoswipe-default-skin.css">
-    <link rel="stylesheet" href="assets/css/plugins/magnific-popup.css">
-    <link rel="stylesheet" href="assets/css/plugins/slick.css"> -->
-
-    <!-- Main Style CSS -->
-    <!-- <link rel="stylesheet" href="assets/css/style.css"> -->
-
-    <!-- Use the minified version files listed below for better performance and remove the files listed above -->
-    <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
-    <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
-    <link rel="stylesheet" href="assets/css/style.min.css">
-
-</head>
+<?php include 'header.php';?>
 
 <body>
 
     <div id="page">
       <!-- Header Section Start -->
-      <div class="header-section header-fluid sticky-header section">
-          <div class="header-inner">
-              <div class="container position-relative">
-                  <div class="row justify-content-between align-items-center">
 
-                      <!-- Header Logo Start -->
-                      <div class="col-xl-3 col-auto">
-                          <div class="header-logo">
-                              <a href="index.html">
-                                  <img class="dark-logo" src="assets/images/logo/dark-logo.png" alt="Learts Logo">
-                                  <img class="light-logo" src="assets/images/logo/light-logo.png" alt="Learts Logo">
-                              </a>
-                          </div>
-                      </div>
-                      <!-- Header Logo End -->
-
-                      <!-- Header Main Menu Start -->
-                      <div class="col d-none d-xl-block position-static">
-                          <nav class="site-main-menu">
-                              <ul>
-                                  <li>
-                                      <a href="#home"><span class="menu-text">Home</span></a>
-                                  </li>
-                                  <li>
-                                      <a href="#What"><span class="menu-text">The100kSchool</span></a>
-                                  </li>
-                                  <li>
-                                      <a href="#Why"><span class="menu-text">Why Join Us</span></a>
-                                  </li>
-                                  <li>
-                                      <a href="#Coaches"><span class="menu-text">Meet your Coaches</span></a>
-                                  </li>
-                                  <li>
-                                      <a href="contentcreatorfellowship.html"><span class="menu-text">Content Creator Fellowship</span></a>
-                                  </li>
-
-                                  <li>
-                                    <a href="#"><i class="fab fa-linkedin"></i></a>
-                                  </li>
-                                  <li>
-                                    <a href="#"><i class="fab fa-instagram"></i></a>
-                                  </li>
-
-                              </ul>
-                          </nav>
-                      </div>
-                      <!-- Header Main Menu End -->
-                  </div>
-              </div>
-          </div>
-      </div>
       <!-- Header Section End -->
 
         <!-- Page Title Section Start -->
@@ -444,23 +358,9 @@
         </div>
         <!-- Course Details Section End -->
 
+          <?php include 'footer.php';?>
 
 
-
-        <div class="footer-section section"data-bg-image="assets/images/bg/background-pattern-grid-line.png" data-bg-color="#D5ECC2">
-            <div class="container">
-
-                <!-- Footer Copyright Start -->
-                <div class="row">
-                    <div class="col">
-
-                        <p class="copyright">&copy; 2020 Maxcoach. <a href="https://hasthemes.com/">All Rights Reserved</a></p>
-                    </div>
-                </div>
-                <!-- Footer Copyright End -->
-
-            </div>
-        </div>
 
         <!-- Scroll Top Start -->
         <a href="#" class="scroll-top" id="scroll-top">
