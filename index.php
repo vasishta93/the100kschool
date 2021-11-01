@@ -24,7 +24,7 @@
                             <div class="desc" tyle="color:#fc8581">
                                 <p>Join us to learn how to make money, while enjoying and living the life you want to live making amazing content?</p>
                             </div>
-                            <a class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Join Now</a>
+                            <a href="applynow.php" class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Join Now</a>
                         </div>
                     </div>
                     <!-- Intro One Content End -->
@@ -43,8 +43,8 @@
                                 <div class="info">
                                     <span class="price" >Free</span>
                                     <span class="date" style="color:#fc8581">2021</span>
-                                    <h3 class="title" style="color:#fc8581">7 ways to build content creation into business</h3>
-                                    <a class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Download free guide</a>
+                                    <h3 class="title" style="color:#fc8581">Checklist to understand your Content Creator Score</h3>
+                                    <a class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Get Checklist</a>
                                 </div>
                             </div>
                             <!-- Course End -->
@@ -177,8 +177,8 @@
 
                 <div class="row max-mt-50">
                     <div class="col text-center">
-                        <a href="" class="btn btn-outline-primary learn-more-btn btn-hover-secondary margin-15">Learn more </a>
-                        <a href="" class="btn btn-primary btn-hover-secondary margin-15"> Get started today </a>
+                      <a href="contentcreatorfellowship.php" class="btn btn-outline-primary learn-more-btn btn-hover-secondary margin-15">Learn more </a>
+                      <a href="applynow.php" class="btn btn-primary btn-hover-secondary margin-15"> Get started today </a>
                     </div>
                 </div>
 
@@ -313,6 +313,12 @@
                                     </div>
                                 </div>
 
+                            </div>
+                            <div class="row max-mt-50">
+                                <div class="col text-center">
+                                  <a href="contentcreatorfellowship.php" class="btn btn-outline-primary learn-more-btn btn-hover-secondary margin-15">Learn more </a>
+                                  <a href="applynow.php" class="btn btn-primary btn-hover-secondary margin-15"> Get started today </a>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -505,6 +511,12 @@
                                 </a>
                               </div>
                             </div>
+                        </div>
+                    </div>
+                    <div class="row max-mt-50">
+                        <div class="col text-center">
+                            <a href="contentcreatorfellowship.php" class="btn btn-outline-primary learn-more-btn btn-hover-secondary margin-15">Learn more </a>
+                            <a href="applynow.php" class="btn btn-primary btn-hover-secondary margin-15"> Get started today </a>
                         </div>
                     </div>
 
