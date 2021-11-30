@@ -48,12 +48,10 @@
                                         <h3 class="title">Course Overview</h3>
 
                                         <p>You will explore all aspects of the creator economy as a content creator from brainstorming ideas to exploring platforms, understanding algorithms, connecting with your audience, and knowing their pulse to get a holistic birds-eye view.</p>
+                                        <p>You’ll build your network, work on soft and hard skills, understand the psyche of the Target Audience and Brands catering to them. All this will help you figure out the sweet spot that becomes "Your Zone".</p>
+                                        <p>Your 'action plan' will help you make and deliver content that resonates with the audience. Get people united through the feeling of building a community. Nurture and serve, leading you to create and produce results you love & believe in.</p>
+                                        <p>This is a unique opportunity to find and define your mojo. Specify your value proposition and metrics to help brands figure out how to collaborate with you. And work with them symbiotically on the stuff that you love doing.</p>
 
-                                        <p>You’ll get to build your network, work on your soft skills, learn hard skills, understand the psyche of the Target Audience and Brands catering to them in order to figure out the sweet spot that becomes "your Zone".</p>
-
-                                        <p>Your action plan will help you strategize, create and execute content that resonates with the audience, get people united through the feeling building the community, nurture and serve them leading you to create and produce results you love & believe in.</p>
-
-                                        <p>It’s a unique opportunity for you to find and define your mojo, value proposition, and metrics to help brands figure out how to collaborate with you, & work with them symbiotically on the stuff that you love doing.</p>
 
 
 
@@ -63,21 +61,22 @@
                                     <div class="course-overview">
                                         <h3 class="title">Key Takeaway</h3>
 
-                                        <p>Understand the difference between Audience & Community. The audience is someone who has come across your content, product, &-or offering and may be interested. Community is the subset of the audience who are invested in your content, product & offering. They are your evangelists and supporters who help you catapult to the next stage.</p>
-                                        <p>Brands are looking to work with influencers who will help them reach out to niche-targeted markets. For example, a diaper company collaborates with a community of young mothers for knowledge sharing & offers specific deals. Understanding this cycle and deal flow helps in positioning for success.</p>
-                                        <p>Understand your niche & leverage digital platforms to build thought leadership and just in case if a platform closes down in a market economy, the insights from the target audience play a critical role in pivoting.</p>
-                                        <p>Start with baby steps and grow along the process to establish yourself as a leader which you have always dreamed to become.</p>
+                                        <p>Understand the difference between Audience & Community. Audience is someone who comes across your content, product, &-or offering and may get interested. Community is the subset of the audience who get invested in your content, product & offers. They are your evangelists and supporters who help you catapult to the next stage.</p>
+  <p>Brands work with influencers who will help them reach out to niche-targeted markets. For example, A diaper company collaborates with a community of young mothers. They together work on knowledge sharing & offer specific deals. Understanding this cycle and deal flow helps in positioning for success.</p>
+  <p>Perceive your niche & leverage digital platforms to build thought leadership. Even if a platform closes down in a market economy; the insights from the target audience play a critical role in pivoting.</p>
+  <p>Start with baby steps and grow along the process. Establish yourself as the leader you've always dreamed to become.</p>
 
                                     </div>
                                 </div>
                                 <div id="usp" class="tab-pane fade ">
                                     <div class="course-overview">
                                         <h3 class="title">Course Description</h3>
+                                        <p>Vasishta & Vineet, are core team members at the100kschool. In their career as young professionals and startup leaders, they have worked with ecosystem partners.  As Startup core team members they have built & strategized community to scale.</p>
+<p>Some other instructors jumped into freelancing in the pre-pandemic era. When their survival was at stake, they've worked to turn into profitable businesses. Their zealous stories are a great source of motivation and learning. </p>
+<p>The core team has encountered many challenges during their career as entrepreneurs. Such that today, their experiences come in handy. That results in navigation of early challenges for an independent business professional.</p>
+<p>We might not be promising a billion-dollar deal. But our dream is to build a community that enables creators to collaborate, learn and grow. The idea is to get a cumulative billion-dollar transaction within the first three years.</p>
 
-                                        <p>Vasishta & Vineet, core team members at the100kschool in their career as young professionals, startup leaders, startup core team members have worked with ecosystem partners, build & strategized community to scale.</P>
-                                        <p>Some of the instructors jumped into the freelancing pre-pandemic era as their survival was at stake and successfully turned into profitable businesses.</p>
-                                        <p>The core team has encountered multiple challenges during their career as an entrepreneur that their experience will come in handy to navigate the early challenge as an independent business professional.</p>
-                                        <p>We are not promising a billion-dollar deal but our dream is to build a community and structure that will enable creators to collaborate, learn and grow. The idea is to do a cumulative billion-dollar transaction within the first three years.</p>
+
                                     </div>
                                 </div>
                                 <div id="curriculum" class="tab-pane fade">
@@ -97,7 +96,8 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Hacking Creativity</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                             <span class="item-meta duration"></span>
+                                                            <span class="item-meta item-meta-icon video">
                                                             </div>
                                                         </a>
                                                     </li>
@@ -105,7 +105,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Building a framework for your content </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -113,7 +113,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Creating a Content Calendar </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -121,7 +121,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Promise Land Approach</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -129,7 +129,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Effective Storytelling</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -152,7 +152,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Youtube</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -160,7 +160,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">instagram</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -168,7 +168,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Linkedin</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -176,7 +176,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Podcast</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -184,7 +184,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Analytics</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -207,7 +207,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Sales 101</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -215,7 +215,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Understanding Deals</span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -223,7 +223,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Enterprise Sales </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -231,7 +231,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Setting the right price </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -239,7 +239,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Closing deals </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -247,7 +247,7 @@
                                                         <a class="section-item-link lesson" href="JavaScript:Void(0);">
                                                             <span class="item-name">Invoicing and fulfilling </span>
                                                             <div class="course-item-meta">
-                                                            <span class="item-meta count-questions">3 questions</span>
+                                                              <span class="item-meta "></span>
                                                             </div>
                                                         </a>
                                                     </li>
@@ -279,38 +279,32 @@
                                                 Price
                                             </span>
                                             <span class="meta-value">
-                                                <span class="price">$19<span class="decimals-separator">.00</span></span>
+                                                <span class="price">INR 25000</span>
                                             </span>
                                         </div>
                                         <div class="course-meta">
-                                            <div class="course-instructor">
-                                                <span class="meta-label">
-                                                    <i class="far fa-chalkboard-teacher"></i>
-                                                    Instructor
-                                                </span>
-                                                <span class="meta-value">Maggie Strickland</span>
-                                            </div>
+
                                             <div class="course-duration">
                                                 <span class="meta-label">
                                                     <i class="far fa-clock"></i>
                                                     Duration
                                                 </span>
-                                                <span class="meta-value">15 weeks</span>
+                                                <span class="meta-value">24 weeks</span>
                                             </div>
                                             <div class="course-lectures">
                                                 <span class="meta-label">
                                                     <i class="far fa-file-alt"></i>
                                                     Lectures
                                                 </span>
-                                                <span class="meta-value">24</span>
+                                                <span class="meta-value">27</span>
                                             </div>
 
                                             <div class="course-students">
                                                 <span class="meta-label">
                                                     <i class="far fa-user-alt"></i>
-                                                    Enrolled
+                                                    Total Seats
                                                 </span>
-                                                <span class="meta-value">629 students</span>
+                                                <span class="meta-value">25</span>
                                             </div>
                                             <div class="course-language">
                                                 <span class="meta-label">
@@ -324,29 +318,13 @@
                                                     <i class="far fa-calendar"></i>
                                                     Deadline
                                                 </span>
-                                                <span class="meta-value">05 Jan  2019</span>
+                                                <span class="meta-value">31 Jan  2022</span>
                                             </div>
                                         </div>
                                         <div class="lp-course-buttons">
                                             <button class="btn btn-primary btn-hover-secondary btn-width-100">Enroll</button>
                                         </div>
-                                        <div class="entry-course-share">
-                                            <div class="share-media">
 
-                                                <div class="share-label">Share this course</div>
-                                                <span class="share-icon far fa-share-alt"></span>
-
-                                                <div class="share-list">
-                                                    <a class="hint--bounce hint--top hint--theme-two" aria-label="Facebook" target="_blank" href="JavaScript:Void(0);"><i class="fab fa-facebook-f"></i></a>
-
-                                                    <a class="hint--bounce hint--top hint--theme-two" aria-label="Twitter" target="_blank" href="JavaScript:Void(0);"><i class="fab fa-twitter"></i></a>
-
-                                                    <a class="hint--bounce hint--top hint--theme-two" aria-label="Linkedin" target="_blank" href="JavaScript:Void(0);"><i class="fab fa-linkedin"></i></a>
-
-                                                    <a class="hint--bounce hint--top hint--theme-two" aria-label="Tumblr" target="_blank" href="JavaScript:Void(0);"><i class="fab fa-tumblr-square"></i></a>
-                                                </div>
-                                            </div>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
