@@ -45,7 +45,7 @@
                         <!-- Header Logo Start -->
                         <div class="col-xl-3 col-auto">
                             <div class="header-logo">
-                                <a href="index.html">
+                                <a href="index.php">
                                     <img class="dark-logo" src="assets/images/logo/dark-logo.png" alt="Learts Logo">
                                     <img class="light-logo" src="assets/images/logo/light-logo.png" alt="Learts Logo">
                                 </a>
@@ -74,10 +74,10 @@
                                     </li>
 
                                     <li>
-                                      <a href="www.linkedin.com/company/the-100k-school?utm_source=website" target="_blank"><i class="fab fa-linkedin"></i></a>
+                                      <a href=www.linkedin.com/company/the-100k-school target="_blank"><i class="fab fa-linkedin"></i></a>
                                     </li>
                                     <li>
-                                      <a href="www.instagram.com/the100kschool?utm_source=website" target="_blank"><i class="fab fa-instagram"></i></a>
+                                      <a href=www.instagram.com/the100kschool target="_blank"><i class="fab fa-instagram"></i></a>
                                     </li>
 
                                 </ul>
@@ -98,6 +98,16 @@
         <link rel="icon" type="image/png" sizes="32x32" href="assets/images/logo/icons/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="16x16" href="assets/images/logo/icons/favicon-16x16.png">
         <link rel="manifest" href="assets/images/logo/icons/site.webmanifest">
+
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-214964344-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+
+          gtag('config', 'UA-214964344-1');
+        </script>
 
 
 </head>
