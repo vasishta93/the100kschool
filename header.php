@@ -34,8 +34,9 @@
     <link rel="stylesheet" href="assets/css/vendor/vendor.min.css">
     <link rel="stylesheet" href="assets/css/plugins/plugins.min.css">
     <link rel="stylesheet" href="assets/css/style.min.css">
+    <link rel="stylesheet" href="assets/css/atcb.min.css">
 
-    <div id="page" class="section">
+
         <!-- Header Section Start -->
         <div class="header-section header-fluid sticky-header section">
             <div class="header-inner">
@@ -70,7 +71,7 @@
                                         <a href="index.php#Coaches"><span class="menu-text">Meet your Coaches</span></a>
                                     </li>
                                     <li>
-                                        <a href="contentcreatorfellowship.php"><span class="menu-text">Content Creator Fellowship</span></a>
+                                        <a href="reelswithshraddha.php"><span class="menu-text">Reels Workshops</span></a>
                                     </li>
 
                                     <li>
@@ -84,11 +85,63 @@
                             </nav>
                         </div>
                         <!-- Header Main Menu End -->
+
+                        <!-- Mobile Header Section Start -->
+                        <div id="site-main-mobile-menu" class="site-main-mobile-menu">
+                            <div class="site-main-mobile-menu-inner">
+                                <div class="mobile-menu-header">
+                                    <div class="mobile-menu-logo">
+                                        <a href="index.html"><img src="assets/images/logo/dark-logo.png" alt=""></a>
+                                    </div>
+                                    <div class="mobile-menu-close">
+                                        <button class="toggle">
+                                            <i class="icon-top"></i>
+                                            <i class="icon-bottom"></i>
+                                        </button>
+                                    </div>
+                                </div>
+                                <div class="mobile-menu-content">
+                                    <nav class="site-mobile-menu">
+                                      <ul>
+                                          <li>
+                                              <a href="#home"><span class="menu-text">Home</span></a>
+                                          </li>
+                                          <li>
+                                              <a href="#What"><span class="menu-text">The100kSchool</span></a>
+                                          </li>
+                                          <li>
+                                              <a href="#Why"><span class="menu-text">Why Join Us</span></a>
+                                          </li>
+                                          <li>
+                                              <a href="#Coaches"><span class="menu-text">Meet your Coaches</span></a>
+                                          </li>
+                                          <li>
+                                              <a href="contentcreatorfellowship.html"><span class="menu-text">Content Creator Fellowship</span></a>
+                                          </li>
+
+                                          <li>
+                                            <a href="#"><i class="fab fa-linkedin"></i></a>
+                                          </li>
+                                          <li>
+                                            <a href="#"><i class="fab fa-instagram"></i></a>
+                                          </li>
+
+                                      </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
             </div>
         </div>
         <!-- Header Section End -->
+
+
+
+
+
 
         <link rel="shortcut icon" href="assets/images/logo/icons/favicon.ico">
         <link rel="apple-touch-icon" href="assets/images/logo/icons/apple-touch-icon.png">

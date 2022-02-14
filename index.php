@@ -24,7 +24,7 @@
                             <div class="desc" tyle="color:#fc8581">
                                 <p>Join us to learn how to make money, while living your dream of making amazing content!</p>
                             </div>
-                            <a href="applynow.php" class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Join Now</a>
+                          <!--  <a href="applynow.php" class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Join Now</a> -->
                         </div>
                     </div>
                     <!-- Intro One Content End -->
@@ -33,18 +33,18 @@
                     <div class="col max-mb-30" data-aos="fade-up">
                         <div class="intro1-course">
 
-                            <img class="popular-course-icon" src="assets/images/intro/intro1/fg1.png" alt="">
+                              <img class="popular-course-icon" src="assets/images/intro/intro1/jn.png" alt="">
 
                             <!-- Course Start -->
                             <div class="course-2">
                                 <div class="thumbnail">
-                                    <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/intro/intro1/bgsmall.jpg" alt="Course Image"></a>
+                                    <a href="course-details-standard-sidebar.html" class="image"><img src="assets/images/page-banner/reels2.png" alt="Course Image"></a>
                                 </div>
                                 <div class="info">
-                                    <span class="price" >Free</span>
-                                    <span class="date" style="color:#fc8581">2021</span>
-                                    <h3 class="title" style="color:#fc8581">Checklist to understand your Content Creator Score</h3>
-                                    <a class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Get Checklist</a>
+                                    <span class="price" >₹499</span>
+                                    <span class="date" style="color:#000000">Feb 23, 2022</span>
+                                    <h3 class="title" style="color:#fc8581">Struggling with Reels?</h3></br>
+                                    <a href="reelswithshraddha.php" class="btn btn-primary btn-hover-secondary"><i class="far fa-download me-3"></i>Join Now</a>
                                 </div>
                             </div>
                             <!-- Course End -->
@@ -198,17 +198,17 @@
                 </div>
                 <!-- Section Title End -->
 
-                <!-- About Me Video Wrapper Start -->
+                <!-- About Me Video Wrapper Start
                 <div class="about-me-video-wrapper">
 
-                    <!-- About Me Video Start -->
+                    <!-- About Me Video Start
                     <a href="https://www.youtube.com/watch?v=eS9Qm4AOOBY" class="about-me-video video-popup" data-aos="fade-up">
                         <img class="image" src="assets/images/about/about-me/about-me-popup-video-poster.jpg" alt="">
                         <img class="icon" src="assets/images/icons/icon-youtube-play.png" alt="">
                     </a>
                     <!-- About Me Video End -->
 
-                    <!-- Animation Shape Start -->
+                    <!-- Animation Shape Start
                     <div class="shape shape-1 scene">
                         <span data-depth="3">
                             <img src="assets/images/shape-animation/shape-2.svg" alt="" class="svgInject">
@@ -641,50 +641,6 @@
         <!-- Scroll Top End -->
     </div>
 
-    <div id="site-main-mobile-menu" class="site-main-mobile-menu">
-        <div class="site-main-mobile-menu-inner">
-            <div class="mobile-menu-header">
-                <div class="mobile-menu-logo">
-                    <a href="index.html"><img src="assets/images/logo/dark-logo.png" alt=""></a>
-                </div>
-                <div class="mobile-menu-close">
-                    <button class="toggle">
-                        <i class="icon-top"></i>
-                        <i class="icon-bottom"></i>
-                    </button>
-                </div>
-            </div>
-            <div class="mobile-menu-content">
-                <nav class="site-mobile-menu">
-                  <ul>
-                      <li>
-                          <a href="#home"><span class="menu-text">Home</span></a>
-                      </li>
-                      <li>
-                          <a href="#What"><span class="menu-text">The100kSchool</span></a>
-                      </li>
-                      <li>
-                          <a href="#Why"><span class="menu-text">Why Join Us</span></a>
-                      </li>
-                      <li>
-                          <a href="#Coaches"><span class="menu-text">Meet your Coaches</span></a>
-                      </li>
-                      <li>
-                          <a href="contentcreatorfellowship.html"><span class="menu-text">Content Creator Fellowship</span></a>
-                      </li>
-
-                      <li>
-                        <a href="#"><i class="fab fa-linkedin"></i></a>
-                      </li>
-                      <li>
-                        <a href="#"><i class="fab fa-instagram"></i></a>
-                      </li>
-
-                  </ul>
-                </nav>
-            </div>
-        </div>
-    </div>
 
 
 

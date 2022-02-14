@@ -13571,8 +13571,8 @@ ul.section-content .course-item .section-item-link .course-item-meta .item-meta-
     color: #98DDCA;
 }
 .event-content {
-    padding-bottom: 90px;
-    border-bottom: 1px solid #e7e7e7;
+    padding-bottom: 50px;
+
 }
 @media only screen and (min-width:768px) and (max-width:991px) {
     .event-content {
