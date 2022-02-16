@@ -415,7 +415,7 @@
                                 </div>
                                 <div class="team-info text-center">
                                     <h5 class="name">Shraddha Bhalla</h5>
-                                    <div class="position">Head of Content & Social at SocialTribe.co</div>
+                                    <div class="position">Branding Consultant, Lifestyle Content Creator, and Social Media Expert</div>
                                 </div>
 
                             </div>
