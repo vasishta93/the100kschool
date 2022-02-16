@@ -26,7 +26,7 @@
         <!-- Page Title Section End -->
 
         <!-- Course Details Section Start -->
-        <div class="section">
+        <div class="section section-padding">
             <div class="container">
                 <div class="row max-mb-n50">
 
